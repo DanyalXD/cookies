@@ -1,0 +1,1 @@
+document.write("<h1>"+document.cookie+"</h1>");
